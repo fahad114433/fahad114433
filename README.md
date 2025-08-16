@@ -46,10 +46,7 @@ I create scalable, high-performance web applications with a focus on **clean cod
 **Tech Stack:** React, Node.js, MongoDB, Express.js  
 **Features:** Authentication, API Integration, Responsive UI
 
-### 📂 [Another Project](https://github.com/fahad114433/FYP-PMS)
-⚡ Brief project description here.  
-**Tech Stack:** MERN + TailwindCSS  
-**Features:** Real-time updates, performance optimization
+
 
 ---
 
