@@ -41,12 +41,12 @@ I create scalable, high-performance web applications with a focus on **clean cod
 
 ## 📌 Featured Projects
 
-### 📂 [Project Name](https://github.com/yourusername/project-repo)
-🚀 A short description of your project in 1–2 lines.  
+### 📂 [Project Management System](https://github.com/fahad114433/FYP-PMS)
+🚀 A web-based application to efficiently manage projects, tasks, and teams with real-time updates and collaboration.  
 **Tech Stack:** React, Node.js, MongoDB, Express.js  
 **Features:** Authentication, API Integration, Responsive UI
 
-### 📂 [Another Project](https://github.com/yourusername/project-repo)
+### 📂 [Another Project](https://github.com/fahad114433/FYP-PMS)
 ⚡ Brief project description here.  
 **Tech Stack:** MERN + TailwindCSS  
 **Features:** Real-time updates, performance optimization
@@ -63,8 +63,8 @@ I create scalable, high-performance web applications with a focus on **clean cod
 
 ## 🔗 Connect With Me
 <p align="center">
-  <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge&logo=web&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/m-fahad-saeed-bb0035247/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://cozy-bienenstitch-60a5fd.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge&logo=web&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/fahad114433/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/fahad114433/"><img src="https://img.shields.io/badge/GitHub-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="fahadsaeed114433@gmail.com"><img src="https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
